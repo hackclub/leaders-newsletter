@@ -1,5 +1,5 @@
 # Club Leader Updates
 
-Every Monday morning, I send an email to every club leader who I've been in touch with or onboarded in the last few months. This repo will contain every email I've sent to club leaders.
+Every Friday afternoon, I send a newsletter called "The Hackening" to all active club leaders. I also post the same update in #leaders in Slack. These updates contain current events and ways for clubs and club leaders to engage in or contribute to the community. This repo will contain every newsletter I've sent to club leaders.
 
-If you're a club leader and want to be included in future updates, let me know by emailing me (matthew@hackclub.com) or DMing me on Slack! (@matthew)
+If you want to be included in future updates, email me (holly@hackclub.com) or DM me on Slack! (@holly). You can also subscribe [here](https://airtable.com/shrehIGl77kf2cSPZ)
